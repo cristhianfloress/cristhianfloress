@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Cristhian Flores 👋
 
-<!--
-**cristhianfloress/cristhianfloress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+- 🎓 Estudiante de 10º semestre de Ingeniería de Sistemas
+- 🔭 Desarrollando mi proyecto final de grado
+- 🌱 Aprendiendo Python, PostgreSQL y Visual Studio Code
+- 📧 Correo académico: flores28255953@usm.edu.ve
 
-Here are some ideas to get you started:
+## Tecnologías que Utilizo
+- Python
+- PostgreSQL
+- Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyecto Final de Grado
+- Actualmente trabajando en mi proyecto final de grado
+
+## Encuéntrame en la Web
+- [LinkedIn](https://www.linkedin.com/in/florescristhian/)
+- [GitHub](https://github.com/cristhianfloress)
+- [Instagram](https://www.instagram.com/crisresflo/)
